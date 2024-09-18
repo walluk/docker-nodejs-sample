@@ -1,10 +1,8 @@
-### Abschlussaufgabe für Lernende Informatiker EFZ, Fachrichtung Applikationsentwicklung
-
-#### **Thema:** Erstellen einer ToDo-Applikation mit Markdown, Git, GitHub und Docker
+# **Thema:** Erstellen einer ToDo-Applikation mit Markdown, Git, GitHub und Docker
 
 In dieser Abschlussaufgabe werden alle erlernten Fähigkeiten in den Bereichen **Markdown**, **Git**, **GitHub** und **Docker** kombiniert. Die Aufgabe besteht darin, eine ToDo-Applikation zu erstellen und diese in einem Docker-Container bereitzustellen.
 
-#### **Aufgabenstellung:**
+### **Aufgabenstellung:**
 
 1. **GitHub-Fork erstellen:**
    - Erstelle einen **Fork** des folgenden GitHub-Repositories: [docker-nodejs-sample](https://github.com/ICT-BLJ/docker-nodejs-sample).
@@ -41,7 +39,7 @@ In dieser Abschlussaufgabe werden alle erlernten Fähigkeiten in den Bereichen *
    - **Dokumentation:** Lade die erstellte Word-Dokumentation (inkl. Screenshots und Beschreibung der Schritte) in dein Repository hoch.
    - **GitHub-Link:** Stelle den Link zu deinem GitHub-Repository bereit, das den finalen Stand des Projekts enthält.
 
-#### **Ziele der Aufgabe:**
+### **Ziele der Aufgabe:**
 - Anwendung und Vertiefung von Git und GitHub.
 - Verfassen einer strukturierten Anleitung mit Markdown.
 - Containerisieren einer Node.js-Anwendung mit Docker.
